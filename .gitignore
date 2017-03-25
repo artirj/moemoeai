@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# ROS stuff
+moemoeai_ros/build/
+moemoeai_ros/devel/
